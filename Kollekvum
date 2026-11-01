@@ -1,0 +1,107 @@
+Məncə, problemin əsas səbəbini müəyyən etməyiniz yaxşı başlanğıcdır. Burada vacib məqam odur ki, problemi magistrantların diqqətsizliyi və ya səhv qərar verməsi kimi deyil, portalın istifadəçi təcrübəsində (UX) və fənn seçimi prosesinin təşkilindəki çatışmazlıq kimi araşdıraq.
+
+Gəlin əvvəlcə problemi düzgün formalaşdıraq, sonra tapşırığın bütün hissələrini hazırlayaq.
+
+## 1. Problemin təhlili
+
+Mövcud vəziyyət:
+
+Magistrantlar portal vasitəsilə fənn seçərkən onların tədris planına uyğun olmayan, seçməməli olduqları fənləri də seçim siyahısında görürlər.
+
+Əsas səbəb:
+
+Portal magistrantın ixtisasına, təhsil proqramına, kursuna və fərdi tədris planına uyğun olmayan fənləri də ümumi siyahıda göstərir. Nəticədə seçim prosesi qarışıq olur və magistrant yanlış fənni seçə bilir.
+
+Mənim əlavə müşahidəm:
+
+Burada problemin bir neçə mümkün tərəfi var:
+
+- Uyğun olmayan fənlərin seçim siyahısında göstərilməsi.
+- Fənlərin məcburi və seçmə olaraq aydın fərqləndirilməməsi.
+- Fənlərin hansı ixtisas və təhsil proqramına aid olduğunun göstərilməməsi.
+- Magistrantın seçə biləcəyi fənlərlə seçə bilməyəcəyi fənlər arasında vizual fərqin olmaması.
+- Seçim zamanı sistemin xəbərdarlıq və yoxlama mexanizminin olmaması.
+
+Bunlar araşdırmada yoxlanılmalı ehtimallardır. Hələ hamısını təsdiqlənmiş səbəb hesab etməməliyik.
+
+## 2. Araşdırma sualı
+
+Mənim təklifim:
+
+Portalın fənn seçimi interfeysindəki struktur və istifadə rahatlığı ilə magistrantların yanlış fənn seçimi etməsi arasında hansı əlaqə mövcuddur və bu prosesdə hansı sistem çatışmazlıqları əsas rol oynayır?
+
+Bu sual yaxşıdır, çünki yalnız problemin nə olduğunu deyil, onun niyə yarandığını da öyrənməyə imkan verir.
+
+## 3. Altı iştirakçı üçün seçmə meyarları
+
+Məqsəd müxtəlif təcrübələri müqayisə etməkdir.
+
+| İştirakçı | Seçim meyarı                                                                   |
+| 1         | Son semestrdə portal vasitəsilə fənn seçmiş magistrant                         |
+| 2         | Fənn seçimi zamanı yanlış fənn seçmiş magistrant                               |
+| 3         | Yanlış seçim edib sonradan düzəliş etdirmiş magistrant                         |
+| 4         | Fənn seçimi zamanı çətinlik yaşamış magistrant                                 |
+| 5         | Portalda ilk dəfə fənn seçən magistrant                                        |
+| 6         | Fənn seçimi prosesində digər iştirakçılardan fərqli təcrübəyə malik magistrant |
+
+Burada çalışmaq lazımdır ki, iştirakçılar müxtəlif ixtisas və kursları təmsil etsinlər.
+
+## 4. Beş açıq müsahibə sualı
+
+Suallar iştirakçını müəyyən cavaba yönləndirməməlidir.
+
+1\. Portal vasitəsilə fənn seçimi prosesini ilk dəfə həyata keçirərkən hansı mərhələlərdən keçdiniz?
+
+2\. Fənləri seçərkən onların sizin ixtisasınıza və tədris planınıza uyğunluğunu necə müəyyən edirsiniz?
+
+3\. Portalda təqdim olunan fənn siyahısının quruluşu və məlumatların yerləşdirilməsi haqqında nə düşünürsünüz?
+
+4\. Fənn seçimi zamanı sizi ən çox çətinləşdirən məqamlar hansılar olub?
+
+5\. Sizcə, portalda hansı dəyişikliklər edilsəydi, fənn seçimi prosesi daha rahat və səhvsiz olardı?
+
+## 5. Üç detallı (dəqiqləşdirici) sual
+
+Bu suallar əsas suallara verilən cavabları daha dərindən araşdırmaq üçündür.
+
+1\. Dediniz ki, seçim zamanı fənlərin uyğunluğunu müəyyən etmək çətin olur. Konkret olaraq hansı məlumat çatışmırdı və bu, qərarınıza necə təsir etdi?
+
+2\. Seçmək istəmədiyiniz və ya tədris planınıza uyğun olmayan fənləri də siyahıda gördükdə necə davranırdınız? Onların arasından düzgün fənni necə müəyyən edirdiniz?
+
+3\. Tutaq ki, portal yalnız sizin tədris planınıza uyğun fənləri göstərir. Sizcə, bu dəyişiklik yanlış seçimlərin qarşısını almaq üçün kifayət edərdi? Niyə?
+
+## 6. Qərəz risklərinin idarə olunması planı
+
+| Qərəz riski                 | İdarəetmə üsulu                                                                                 |
+| --------------------------- | ----------------------------------------------------------------------------------------------- |
+| Yönləndirici suallar        | Neytral və açıq suallardan istifadə etmək                                                       |
+| Seçim qərəzi                | Müxtəlif ixtisas və kurslardan iştirakçılar seçmək                                              |
+| Təsdiqləmə qərəzi           | Yalnız portalın günahkar olduğunu təsdiqləyən cavabları deyil, fərqli fikirləri də nəzərə almaq |
+| Sosial arzuolunanlıq qərəzi | İştirakçıların cavablarının anonim saxlanılmasını təmin etmək                                   |
+| Müsahibəçinin şəxsi fikri   | Bütün iştirakçılara eyni əsas sualları vermək                                                   |
+
+## 7. Mənim təklif etdiyim mümkün həll
+1\. Fərdiləşdirilmiş fənn siyahısı
+
+Portal magistrantın ixtisasına, kursuna və tədris planına uyğun fənləri göstərməlidir.
+2\. Fənlərin kateqoriyalara ayrılması
+
+Məcburi, seçmə və əlavə fənlər vizual olaraq fərqləndirilməlidir.
+3\. Avtomatik yoxlama mexanizmi
+
+Magistrant uyğun olmayan fənni seçdikdə sistem xəbərdarlıq etməli və seçimə icazə verməməlidir.
+
+## 8. İndi müzakirə etməyimizi istədiyim əsas məqam
+
+Məncə, araşdırmanın ən vacib tərəfi budur:
+
+Problem magistrantın səhv seçim etməsi deyil, portalın ona səhv seçim etmək imkanı yaratmasıdır.
+
+Buna görə araşdırmada iki məsələni ayırmaq lazımdır:
+
+- Problem: Magistrantlar yanlış fənlər seçirlər.
+- Kök səbəb: Portalda uyğun olmayan fənlər də göstərilir və seçim prosesi kifayət qədər aydın təşkil edilməyib.
+
+Bir şeyi dəqiqləşdirmək istəyirəm: Portalda bütün magistrantlara eyni ümumi fənn siyahısı göstərilir, yoxsa hər ixtisas üzrə ayrıca siyahı var, sadəcə həmin siyahıda artıq və uyğun olmayan fənlər də mövcuddur?
+
+Bu fərq vacibdir. Çünki birinci halda məlumatların filtrlənməsi, ikinci halda isə tədris planı ilə portal arasındakı uyğunluğun yoxlanılması əsas həll istiqaməti olacaq.
